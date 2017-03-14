@@ -1,0 +1,61 @@
+{
+  "filters": [
+    {
+      "name": "brand",
+      "values": ["Amul", "Bovanto", "Coca Coala", "Pepsi","Tropicana"]
+    },
+    {
+      "name": "price",
+      "values": ["0-99", "100-199", "200-299"]
+    }
+  ],
+  "products": [
+    {
+      "name": "CAR GPS SYSTEM ",
+      "price": "$24.85",
+      "image": "product1.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+
+    },
+    {
+      "name": "UGG SHOES",
+      "price": "$29.99",
+      "image": "product2.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+    },
+    {
+      "name": "NFL HEADPHONES",
+      "price": "$158.00",
+      "image": "product3.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+
+      },
+    {
+       "name": "SAMSUNG GALAXY NOTE",
+      "price": "$815.40",
+      "image": "product4.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+    },
+    {
+      "name": "KRISTEN NOTE",
+      "price": "$230.20",
+      "image": "product5.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+    },
+    {
+     "name": "KITTY WALLET",
+      "price": "$5.30",
+      "image": "product6.png",
+      "tooltip":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eleifend pulvinar semper. Maecenas at dictum lacus. Phasellus sagittis, velit non tempor laoreet, arcu mauris tempus sem, ut dapibus nibh arcu eget diam"
+    
+    }
+  
+  ]
+
+}
+
